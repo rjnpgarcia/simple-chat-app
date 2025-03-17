@@ -1,4 +1,4 @@
-# chat-app
+# simple-chat-app
 
 Final-assessment
 
@@ -28,5 +28,3 @@ To use chat-app:
 - Individually, copy the given Id the add both contacts respectively on each window, in Contacts tab click New Contact then input details.
 - In Chat tab, click "New Chat" then select the contact you want to send a message then click "Send Message"
 - You can now both chat using different browser.
-
-Thank you very much for this opportunity! Looking forward to be a part of your team. Have a nice day!
