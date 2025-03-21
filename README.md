@@ -1,7 +1,5 @@
 # simple-chat-app
 
-Final-assessment
-
 To run code:
 
 for client folder:
